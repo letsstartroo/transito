@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: ab494dded21375a4db6c762afc211ee0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Placas_Advertencia_Aimore_0
+    21300002: Placas_Advertencia_Aimore_1
+    21300004: Placas_Advertencia_Aimore_2
+    21300006: Placas_Advertencia_Aimore_3
+    21300008: Placas_Advertencia_Aimore_4
+    21300010: Placas_Advertencia_Aimore_5
+    21300012: Placas_Advertencia_Aimore_6
+    21300014: Placas_Advertencia_Aimore_7
+    21300016: Placas_Advertencia_Aimore_8
+    21300018: Placas_Advertencia_Aimore_9
+    21300020: Placas_Advertencia_Aimore_10
+    21300022: Placas_Advertencia_Aimore_11
+    21300024: Placas_Advertencia_Aimore_12
+    21300026: Placas_Advertencia_Aimore_13
+    21300028: Placas_Advertencia_Aimore_14
+    21300030: Placas_Advertencia_Aimore_15
+    21300032: Placas_Advertencia_Aimore_16
+    21300034: Placas_Advertencia_Aimore_17
+    21300036: Placas_Advertencia_Aimore_18
+    21300038: Placas_Advertencia_Aimore_19
+    21300040: Placas_Advertencia_Aimore_20
+    21300042: Placas_Advertencia_Aimore_21
+    21300044: Placas_Advertencia_Aimore_22
+    21300046: Placas_Advertencia_Aimore_23
+    21300048: Placas_Advertencia_Aimore_24
+    21300050: Placas_Advertencia_Aimore_25
+    21300052: Placas_Advertencia_Aimore_26
+    21300054: Placas_Advertencia_Aimore_27
+    21300056: Placas_Advertencia_Aimore_28
+    21300058: Placas_Advertencia_Aimore_29
+    21300060: Placas_Advertencia_Aimore_30
+    21300062: Placas_Advertencia_Aimore_31
+    21300064: Placas_Advertencia_Aimore_32
+    21300066: Placas_Advertencia_Aimore_33
+    21300068: Placas_Advertencia_Aimore_34
+    21300070: Placas_Advertencia_Aimore_35
+    21300072: Placas_Advertencia_Aimore_36
+    21300074: Placas_Advertencia_Aimore_37
+    21300076: Placas_Advertencia_Aimore_38
+    21300078: Placas_Advertencia_Aimore_39
+    21300080: Placas_Advertencia_Aimore_40
+    21300082: Placas_Advertencia_Aimore_41
+    21300084: Placas_Advertencia_Aimore_42
+    21300086: Placas_Advertencia_Aimore_43
+    21300088: Placas_Advertencia_Aimore_44
+    21300090: Placas_Advertencia_Aimore_45
+    21300092: Placas_Advertencia_Aimore_46
+    21300094: Placas_Advertencia_Aimore_47
+    21300096: Placas_Advertencia_Aimore_48
+    21300098: Placas_Advertencia_Aimore_49
+    21300100: Placas_Advertencia_Aimore_50
+    21300102: Placas_Advertencia_Aimore_51
+    21300104: Placas_Advertencia_Aimore_52
+    21300106: Placas_Advertencia_Aimore_53
+    21300108: Placas_Advertencia_Aimore_54
+    21300110: Placas_Advertencia_Aimore_55
+    21300112: Placas_Advertencia_Aimore_56
+    21300114: Placas_Advertencia_Aimore_57
+    21300116: Placas_Advertencia_Aimore_58
+    21300118: Placas_Advertencia_Aimore_59
+    21300120: Placas_Advertencia_Aimore_60
+    21300122: Placas_Advertencia_Aimore_61
+    21300124: Placas_Advertencia_Aimore_62
+    21300126: Placas_Advertencia_Aimore_63
+    21300128: Placas_Advertencia_Aimore_64
+    21300130: Placas_Advertencia_Aimore_65
+    21300132: Placas_Advertencia_Aimore_66
+    21300134: Placas_Advertencia_Aimore_67
+    21300136: Placas_Advertencia_Aimore_68
+    21300138: Placas_Advertencia_Aimore_69
+    21300140: Placas_Advertencia_Aimore_70
+    21300142: Placas_Advertencia_Aimore_71
+    21300144: Placas_Advertencia_Aimore_72
+    21300146: Placas_Advertencia_Aimore_73
+    21300148: Placas_Advertencia_Aimore_74
+    21300150: Placas_Advertencia_Aimore_75
+    21300152: Placas_Advertencia_Aimore_76
+    21300154: Placas_Advertencia_Aimore_77
+    21300156: Placas_Advertencia_Aimore_78
+    21300158: Placas_Advertencia_Aimore_79
+    21300160: Placas_Advertencia_Aimore_80
+    21300162: Placas_Advertencia_Aimore_81
+    21300164: Placas_Advertencia_Aimore_82
+    21300166: Placas_Advertencia_Aimore_83
+    21300168: Placas_Advertencia_Aimore_84
+    21300170: Placas_Advertencia_Aimore_85
+    21300172: Placas_Advertencia_Aimore_86
+    21300174: Placas_Advertencia_Aimore_87
+    21300176: Placas_Advertencia_Aimore_88
+    21300178: Placas_Advertencia_Aimore_89
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025eb208c57a6c45a8e9a15ebeacc94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 795
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98ebaec31ed894c83cdd78e9c43d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83851642f50bec64e833ce9f07d5a2d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ea4c0fa2a5144b8b560044ad4f7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23935cfe3d9b0a48a998f5819e29882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80afd40591b96740b7ffa8096fa1f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e34f10ed69df4b8571af92feaa758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfd7db2060eaf4bb61e95429c40292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e0839262c7e94ba884d6772996426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 794.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f212ca82f9ee434984777f25fee3451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b1faf12c07044a9240e4d596a269b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa949176dfadf994f84359de233325d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3eaca86dac538438c8742bbfb0cedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690a784806809684093502310f8451e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed87621fa1b25c46b3ab8e0b1d257e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba742579b7a244dbdc59a95cbb4fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f64cb9143fa6b44b2e02f853a1e124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb5f81d17c85214594205ad93c7444b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69437681038b8d8408b25b3c3e84846f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 695.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca371736f5fd5844b34e843f432b917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d40332b7a16f84fb341cb3fefc2393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744263db31e9784a973b3882f817a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a3153a76233441b86d778e27c4bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c419abacf8604c872f8733f29dca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd9020015f8b745947fb5ca3231631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a413b5563a378149a77431764bf015a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52daa3dd82f9df84fa77548731548538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0dae02e8a471742ac963def0c9ae9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d01d13f0c5664b957251d46b28fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 596.6667
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481afc4fac5df240a2e42f9e92fa472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29931738fa3de44906c525965bfadb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eace55b96e63134b866019aad767d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68948c75f921e743b411aa628f11803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6bbe5521b75cb408b67f94cb14bb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772d7962cf984b54aa120b17fd702b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f881118a291f843932f7873ffe2b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ed675e144a1845b579c3a543298c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9460a5b0ebe71479042b9474636e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26edb48c49d6ef4fac494c23730a632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 497.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9a289f06c1374c942c709dd9fa79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5e692fa7389d428242a5a426e8e0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700458d44171bf48bd36c3d6515773d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdb335e426556c4d8e1f9b5df780b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ea8349ae9ef84ba461f12ee48b9f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24c822d0c18d94080808fcbfcaacf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22a4d8417edc44fa46be51709ea873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988252ebea0072498e2a841a27a9c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 395
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1061619aab98e4484a5a72244f252e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805ae758c759b1409965ffcdf11c09b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 398.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f4d903d4e6bd4facee26fe2fb8a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86b8d0e0294cf489ca983ae8064034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1dce06e548ae94ca234c1d4b378825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421831711e39e4744b0acb48bc9a972c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d799e2802e3e41a7c21f3291f7a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8cda5b5b228246b1f43e95b1f8f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd3d047c9db8145b59f06fd5b7e706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b8734ed16fea4e9a2627091926766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180283345255a1b4284e2711d42bd639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da032ea5e17bcd419fa302d6835d67c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 299.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d89a22ba623b4b97433ca3d2026b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdf4aae801a5f4983a03ea009a55b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd2e63032f7a754c8f5d1cc55de3bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee35546f70f9a443ba848d6332ec2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8247b9b32e4b948be52a8dba1323dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd848bab31268844281a704affb176a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc2a6e2e606b14098154ea25abbc18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0006c851438d11498c0cf4a51835dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad02028c4e57f94fac78d343ea66272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fc6b05f76e624d96a276545d69675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200.66666
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951aacd830d6ad04c906e8b9e793aaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e91b1cb36d1b64ca7e2cbb0fb115be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15a18be959cca459818a1ce2cf0597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea101822316eb249bfbcc6d624bd156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e7b3bc32e73c44b24bce71a4327eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd95930cefbf14a9a2b8cc76bc3b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b4fcf90ed8e14aba5e7b9f211e3c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87089b55e118e49947a206e4acd544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67a66ad5c5a624ca378c2751fbde7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f2dd6c19a5eb4c90ccda745673764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 101.666664
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262fb985638bce4d92205d004da76b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1035f16067137479aec9d5d45f51e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433d867939e7a24b81962ce7fb2998e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0306c17b4314f94c87d886ff9b308f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe237a334723e141906ea21a201323d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f8275f41efa346b560f371514c7a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b2fd2c954ea846a6aaad82481a47b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29db7c0f6e06d24fb4cffc92425f42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9dde277e8185458086456024d5067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f321139a59de1c4f9dbda13f2d47a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placas_Advertencia_Aimore_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2.6666641
+        width: 100
+        height: 99.333336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50734a0b5b864804587e8682364ed2d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ead62e35982f29e4ea1c581179033a1f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
