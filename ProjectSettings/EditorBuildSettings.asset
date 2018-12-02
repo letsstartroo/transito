@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/13.unity
     guid: 9d40191df2816de42849e5ddfd1ebfce
+  - enabled: 1
+    path: Assets/Scene/pontos.unity
+    guid: 41497bcc7e6756e45bd43123a859a132
   m_configObjects: {}
